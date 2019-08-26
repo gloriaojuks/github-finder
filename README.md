@@ -1,18 +1,24 @@
 This project is a React Application that helps you list github users and serach for a particular users.
 
+This project uses ContextAPI along with useContext and useReducer hooks for state management.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### `Usage`
 
-In the project directory, you can run:
+In the project directory, you can run: 
 
-### `npm start`
+* npm install
+* npm start
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Runs the app in the development mode.
+Open http://localhost:3000
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+### `Deployment`
+
+"npm run build" builds the app for production to the build folder.
+
+
 
 
 
